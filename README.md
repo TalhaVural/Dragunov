@@ -3,7 +3,7 @@
 # Dragunov
 Dns Zone Transfer Hunter
 
-<img src="https://github.com/emrekybs/Dragunov/blob/main/1.jpg">
+![Capture]("https://github.com/emrekybs/Dragunov/blob/main/1.jpg")
 Shield Uses Threading in Order to Speed-up the Bruteforce Process
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 AND RUNNING DRAGUNOV
