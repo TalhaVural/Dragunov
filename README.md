@@ -1,6 +1,6 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
 
-# DRAGUNOV SVD
+# DRAGUNOV SVD - DnsHunter
 Dns Zone Transfer Hunter
 
 <img src="https://github.com/emrekybs/Dragunov/blob/main/1.jpg">
