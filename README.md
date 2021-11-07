@@ -1,12 +1,12 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
 
-# Dragunov
+# DRAGUNOV
 Dns Zone Transfer Hunter
 
-![Capture]("https://github.com/emrekybs/Dragunov/blob/main/1.jpg")
+<img src="https://github.com/emrekybs/Dragunov/blob/main/1.png">
 Shield Uses Threading in Order to Speed-up the Bruteforce Process
 
-# 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 AND RUNNING DRAGUNOV
+# 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 DRAGUNOV
 
       $ git clone https://github.com/emrekybs/Dragunov.git
       $ cd Dragunov
@@ -14,8 +14,11 @@ Shield Uses Threading in Order to Speed-up the Bruteforce Process
       $ pip3 install dnspython
 
       $ python3 Dragunov.py "Domain"
- 
+
+# RUNNING
 <img src="https://github.com/emrekybs/Dragunov/blob/main/2.png">
+
+
 <img src="https://github.com/emrekybs/Dragunov/blob/main/3.png">
 
 
